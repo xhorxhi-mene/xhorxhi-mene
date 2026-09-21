@@ -54,7 +54,7 @@ The evolved, production version of the booking system above, currently running f
 
 ## 🌍 Languages
 
-Albanian (native) · Italian (C2) · English (B2)
+Albanian (native) · Italian (native) · English (B2)
 
 ---
 ⭐️ Always looking for new technical challenges to tackle.
