@@ -47,10 +47,9 @@ The evolved, production version of the booking system above, currently running f
 
 ## 📊 GitHub stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=xhorxhi-mene)](https://github.com/stats-organization/github-stats-extended)
 <p align="left">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=xhorxhi-mene&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhorxhi-mene&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=xhorxhi-mene&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xhorxhi-mene&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ## 🌍 Languages
