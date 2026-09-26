@@ -48,7 +48,7 @@ The evolved, production version of the booking system above, currently running f
 ## 📊 GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=xhorxhi-mene&show_icons=true&theme=default&hide_border=true" />
+  <!-- <img height="165" src="https://github-stats-extended.vercel.app/api?username=xhorxhi-mene&show_icons=true&theme=default&hide_border=true" /> -->
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xhorxhi-mene&layout=compact&theme=default&hide_border=true" />
 </p>
 
