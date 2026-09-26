@@ -6,6 +6,8 @@ Computer Engineering student at the University of Pisa, passionate about web dev
 🔐 Training in Ethical Hacking and network security (IFTS Cyber Security Expert 1.0 course)
 🌱 Deepening my knowledge of computer architecture, and getting into sysadmin/self-hosting
 
+🔗 **Portfolio:** [xhorxhi-mene.github.io](https://xhorxhi-mene.github.io)
+
 <a href="https://www.linkedin.com/in/xhorxhi-mene/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
