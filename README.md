@@ -11,7 +11,8 @@ Computer Engineering student at the University of Pisa, passionate about web dev
 <a href="https://www.linkedin.com/in/xhorxhi-mene/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="[https://komarev.com/ghpvc/?username=xhorxhi-mene&label=Profile+views&color=0077B5&style=flat-square](https://komarev.com/ghpvc/?username=xhorxhi-mene&label=Profile+views&color=0077B5&style=flat-square&v=2)" alt="Profile views" />
+
+![Profile views](https://komarev.com/ghpvc/?username=xhorxhi-mene&label=Profile+views&color=0077B5&style=flat-square&v=2)
 
 ## 🛠 Skills
 
